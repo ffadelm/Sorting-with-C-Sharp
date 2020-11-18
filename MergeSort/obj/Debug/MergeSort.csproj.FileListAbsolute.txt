@@ -1,0 +1,7 @@
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\bin\Debug\MergeSort.exe.config
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\bin\Debug\MergeSort.exe
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\bin\Debug\MergeSort.pdb
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\obj\Debug\MergeSort.exe
+D:\UMY\KELAS C\FAYSAL_SEMESTER_3\Algoritma & Struktur Data\belajaran\MergeSort\obj\Debug\MergeSort.pdb
