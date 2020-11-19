@@ -14,7 +14,7 @@ class SortingNama
                 if (max <= 5) // batas 
                     break;
                 else
-                    Console.WriteLine("\nbatas array hanya 26\n");
+                    Console.WriteLine("\nbatas array hanya 5\n");
             }                               
             
             Console.WriteLine("==============================================");
