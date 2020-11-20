@@ -30,9 +30,10 @@ class SortingNama
         static string[] InsertSort(string[] fay)
         {
             int i, j;
-
+            
             for (i = 1; i < fay.Length; i++)
             {
+                //value = temp
                 string value = fay[i];
                 j = i - 1;
                 while ((j >= 0) && (fay[j].CompareTo(value) > 0))
