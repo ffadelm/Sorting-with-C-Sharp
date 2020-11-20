@@ -1,6 +1,6 @@
 class SortingNama
     { 
-        string[] fay = new string [5];
+        string[] fay = new string [26];
         private int max;        
         void InputNama()
         {
@@ -11,7 +11,7 @@ class SortingNama
                 Console.Write("Masukkan jumlah Elemen : ");
                 string y= Console.ReadLine();
                 max = Int32.Parse(y);
-                if (max <= 5) // batas 
+                if (max <= 26) // batas 
                     break;
                 else
                     Console.WriteLine("\nbatas array hanya 5\n");
@@ -27,21 +27,21 @@ class SortingNama
 
         }
 
-        static string[] InsertSort(string[] fay)
+        static string[] InsertSort(string[] fay, int max)
         {
             int i, j;
             
-            for (i = 1; i < fay.Length; i++)
+            for (i = 1; i < max; i++)
             {
                 //value = temp
-                string value = fay[i];
+                string temp = fay[i];
                 j = i - 1;
-                while ((j >= 0) && (fay[j].CompareTo(value) > 0))
+                while ((j >= 0) && (fay[j].CompareTo(temp) > 0))
                 {
                     fay[j + 1] = fay[j];
                     j--;
                 }
-                fay[j + 1] = value;
+                fay[j + 1] = temp;
             }
             return fay;
 
